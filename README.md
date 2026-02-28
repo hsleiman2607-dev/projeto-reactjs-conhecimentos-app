@@ -1,2 +1,4 @@
 # projeto-reactjs-conhecimentos-app
-projeto para gerenciamento de conhecimentos entre pessoas quem compartilhar esse conhecimento e pessoas que buscam pelo conhecimento
+
+Sistema backend desenvolvido para facilitar a troca de conhecimentos entre pessoas. O servidor permite o cadastro de perfis com habilidades específicas e a busca inteligente por esses conhecimentos.
+
